@@ -33,9 +33,10 @@
 
 ## Nhóm Phát Triển
 
-* [Tên Thành Viên 1] - [Vai Trò]
-* [Tên Thành Viên 2] - [Vai Trò]
-* [Tên Thành Viên 3] - [Vai Trò]
+* PS30150 - Nguyễn Thành Huy Tính- [Vai Trò]
+* PS29531 - Nguyễn Tấn  - [Vai Trò]
+* PS35584 - Dương Tấn Khang - [Vai Trò]
+* Ps29083 - Võ Thị Cẩm Vân - [Vai Trò]
 * ...
 
 ## Giấy Phép
