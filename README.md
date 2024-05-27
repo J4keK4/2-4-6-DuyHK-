@@ -34,12 +34,12 @@
 ## Nhóm Phát Triển
 
 * PS30150 - Nguyễn Thành Huy Tính- [Vai Trò]
-* PS29531 - Nguyễn Tấn  - [Vai Trò]
+* PS29531 - Nguyễn Tấn Đạt - [Vai Trò]
 * PS35584 - Dương Tấn Khang - [Vai Trò]
 * Ps29083 - Võ Thị Cẩm Vân - [Vai Trò]
 * Ps35619 - Lê Phúc Hậu - [Vai Trò]
-* PS35584 - Dương Tấn Khang 
-  
+* PS27824 - Huỳnh Nhật Phú 
+
 
 
 ## Giấy Phép
