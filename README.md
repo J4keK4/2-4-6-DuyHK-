@@ -37,6 +37,7 @@
 * PS29531 - Nguyễn Tấn  - [Vai Trò]
 * PS35584 - Dương Tấn Khang - [Vai Trò]
 * Ps29083 - Võ Thị Cẩm Vân - [Vai Trò]
+* Ps35619 - Lê Phúc Hậu - [Vai Trò]
 * ...
 
 ## Giấy Phép
