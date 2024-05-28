@@ -9,8 +9,8 @@
 ## Tính Năng
 
 * Payment
-* [Tính năng 2]
-* [Tính năng 3]
+* Wallet
+* NFTs
 * ...
 
 ## Yêu Cầu Hệ Thống
