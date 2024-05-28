@@ -1,4 +1,4 @@
-# [Tên Dự Án]
+-Web3 Social-
 
 [Mô tả ngắn gọn về dự án và mục tiêu chính]
 
@@ -8,7 +8,7 @@
 
 ## Tính Năng
 
-* [Tính năng 1]
+* Payment
 * [Tính năng 2]
 * [Tính năng 3]
 * ...
