@@ -33,8 +33,8 @@
 
 ## Nhóm Phát Triển
 
-* PS30150 - Nguyễn Thành Huy Tính- [Vai Trò]
-* PS29531 - Nguyễn Tấn Đạt - [Vai Trò]
+* PS30150 - Nguyễn Thành Huy Tính - [Developer]
+* PS29531 - Nguyễn Tấn Đạt - [BA,....]
 * PS35584 - Dương Tấn Khang - [Vai Trò]
 * Ps29083 - Võ Thị Cẩm Vân - [Vai Trò]
 * Ps35619 - Lê Phúc Hậu - [Vai Trò]
